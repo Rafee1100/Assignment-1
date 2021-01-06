@@ -95,3 +95,22 @@ p{
     background-color: rgba(156, 173, 168, 0.144);
     border-radius: 20px;
 }
+.skill-section{
+    background-color: rgba(30, 143, 255, 0.13);
+    height: 600px;
+    text-align: center;
+    width: 60%;
+    margin: 0% 20%;
+    border-radius: 20px;
+}
+.single-skill{
+    width: 70%;
+    margin-left: 10%;
+    display: inline-block;
+}
+.single-skill img{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
