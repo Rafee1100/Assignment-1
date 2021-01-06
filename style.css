@@ -14,10 +14,7 @@ body{
     font-weight: 700;
     padding: 10px 20px;
 }
-.head a:hover{
-    background-image: linear-gradient(50deg, rgb(243, 202, 114),white);
-    border-radius: 15px;
-}
+
 .half-width{
     width: 35%;
     float: left;
@@ -64,10 +61,7 @@ p{
     color: white;
     font-weight: bold;
 }
-.half-width a:hover{
-    background-image: linear-gradient(180deg, rgb(13, 81, 94),rgb(20, 189, 201));
-    border-radius: 20px;
-}
+
 #cv-download{
     color:rgb(232, 229, 238);
     font-size: 18px;
