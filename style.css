@@ -64,8 +64,9 @@ p{
     color: white;
     font-weight: bold;
 }
-.link-button:hover{
-    background-image: linear-gradient(180 deg, black,white);
+.half-width a:hover{
+    background-image: linear-gradient(180deg, rgb(198, 228, 63),rgb(9, 156, 87));
+    border-radius: 20px;
 }
 #cv-download{
     color:rgb(232, 229, 238);
@@ -82,7 +83,7 @@ p{
     height: 70%;
     float: left;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 20px;
     margin-left: 5%;
     align-items: center;
@@ -124,6 +125,7 @@ p{
     width: 60px;
     display: inline-block;
 }
+
 .inquiry img{
     width: 70%;
     margin: 10% 15%;
